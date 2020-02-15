@@ -1,10 +1,4 @@
-/******************************************************************************************
-Author:        XWv1
-E-mail：       <a target="_blank" href="mailto:shuangfeiyanworld@163.com">shuangfeiyanworld@163.com</a>
-File Name:    b2s_transmitter.v
-Function:     b2s发送端, 默认发送32bit数据，数据宽度可更改
-Version:       2013-5-13 v1.0
-********************************************************************************************/
+//v11
 module        b2s_transmitter
 (
         clk,                        //时钟基准,不限频率大小,但必须与接收端一致
