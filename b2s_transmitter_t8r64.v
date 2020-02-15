@@ -1,6 +1,6 @@
 /******************************************************************************************
 Author:        XW
-E-mail：       <a target="_blank" href="mailto:shuangfeiyanworld@163.com">shuangfeiyanworld@163.com</a>
+E-mail：       <xgreatful@163.com">xgreatful@163.com</a>
 File Name:    b2s_transmitter.v
 Function:     b2s发送端, 默认发送32bit数据，数据宽度可更改
 Version:       2013-5-13 v1.0
