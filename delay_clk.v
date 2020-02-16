@@ -19,11 +19,8 @@
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
-
+//v2
 module delay_clk(
-       input clk_300m,
-       input [2:0] delay_setting,
-       input bick_in,
        output bick_out
         );
 reg clk_1,clk_2,clk_3,clk_4,clk_5,clk_6,clk_7;
