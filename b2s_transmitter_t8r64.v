@@ -1,4 +1,4 @@
-//v13
+//v14
 module        b2s_transmitter
 (
         clk,                        //时钟基准,不限频率大小,但必须与接收端一致
